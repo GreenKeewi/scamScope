@@ -1,0 +1,9 @@
+# Convex Configuration
+
+# Functions directory (default: convex/)
+[functions]
+path = "convex"
+
+# Node runtime version
+[node]
+version = "18"
